@@ -349,6 +349,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 <br />
 
+
+- [klymax402](https://klymax402.com) - 100 x402 micropayment MCP servers for AI agents (crypto/DeFi, B2B enrichment, SEO, security, utilities). USDC pay-per-call on Base, no signup, composable in 6 use-case bundles.
 ## 🧬 <a name="research-data"></a>Research & Data
 
 > Access to research papers, genetic data, and specialized datasets.
